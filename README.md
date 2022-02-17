@@ -366,15 +366,15 @@ Click Here to retrieve pictures for some of the buttons and more detailed explan
 
 ### Content
 
-    • All text on this website, except for the content on the Home and About pages, was taken from two Wikipedia articles about the Nissan Skyline GT-R (https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R and https://en.wikipedia.org/wiki/Nissan_RB_engine#RB26DETT).
+    • All text on this website, except for the content on the Home and About pages, was taken from two Wikipedia articles: one about the [Nissan Skyline GT-R](https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R) and another one about the [RB26DETT engine](https://en.wikipedia.org/wiki/Nissan_RB_engine#RB26DETT).
 
 ### Media
 
-    • The photos used as the background images of every page on this website were taken from Speedhunters’ website (http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/) with the permission of the rightful owner of those photos, Mr Stefan Kotze, a famous South African automotive photographer and regular contributor to Speedhunters (this permission was given by email, which is available on request).
+    • The photos used as the background images of every page on this website were taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/) with the permission of the rightful owner of those photos, Mr Stefan Kotze, a famous South African automotive photographer and regular contributor to Speedhunters (this permission was given by email, which is available on request).
 
-    • The images used for the gallery page were also taken from Speedhunters’ website (http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/), also with the permission of the rightful owner of those photos, Mr Stefan Kotze.
+    • The images used for the gallery page were also taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/), also with the permission of the rightful owner of those photos, Mr Stefan Kotze.
 
-    • All four videos are iFramed from YouTube, which offers this option – they’re videos by Throttle House (https://www.youtube.com/watch?v=9mhOJggoa_Q), Top Gear (https://www.youtube.com/watch?v=N5Uk5uzyNZo), Donut Media (https://www.youtube.com/watch?v=AZce2B8DMDQ) and Speedhunters (https://www.youtube.com/watch?v=o4wXfgfGVNM&t=67s), famous YouTube car channels (the Top Gear video is iFramed from the YouTube page of user “Insomnia K”, while all others are iFramed from the car channels' own YouTube channel).
+    • All four videos are iFramed from YouTube, which offers this option – they’re videos by [Throttle House](https://www.youtube.com/watch?v=9mhOJggoa_Q), [Top Gear](https://www.youtube.com/watch?v=N5Uk5uzyNZo), [Donut Media](https://www.youtube.com/watch?v=AZce2B8DMDQ) and [Speedhunters](https://www.youtube.com/watch?v=o4wXfgfGVNM&t=67s), famous YouTube car channels (the Top Gear video is iFramed from the YouTube page of user “Insomnia K”, while all others are iFramed from the car channels' own YouTube channel).
 
 ### Acknowledgements
 
