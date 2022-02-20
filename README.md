@@ -12,79 +12,78 @@ This website is designed to be responsive and accessible on a range of devices, 
  
 ## User Experience (UX)
 
-<strong>• User stories</strong>
+**• User stories**
 
-  <strong>o First-time Visitor Goals</strong>
+  **o First-time Visitor Goals**
 
             a. As a first-time visitor, I want to easily understand what the website is about, navigate with ease throughout it all and find functional, yet interesting content.
 
             b. As a first-time visitor, I want to find good, specific and relevant content about the R34: a mix of the car's technical details, good quality photos and informative videos about this specific model, all in one website.
 
-  <strong>o Returning Visitor Goals</strong>
+  **o Returning Visitor Goals**
 
             a. As a returning visitor, and because this is a website for car fans, who tend to visit the same car websites regularly for different purposes (because they're working on a preoject car and they need detailed information about a specific model or parts, or ideas based on the R34's style and features for their own car, which is information that needs to be constantly accessed depending on the project car they're working on, for example), I want to be able to easily access the same good information about the R34 that I accessed the first time I visited the website and that impressed me so much.
 
-  <strong>o Frequent User Goals</strong>
+  **o Frequent User Goals**
 
             a. As a frequent user, I want this information to be available at all times so I can access it whenever I need it and show it to other R34 aficionados in my local car community and car fans in general - spreading good car information is what car people do when they meet other gearheads, and websites like this are a good source of car knowledge.
 
-<strong>• Design</strong>
+**• Design**
 
-  <strong>o Colour Scheme</strong>
+  **o Colour Scheme**
 
-            a. The two main colors used are white (as the background color, just like in most car websites, where the many images tend to be very colorful and big and can be better looked at with a neutral, but bright background) and black (the text color, which makes it easier to read all the technical text when the background color is white). Being neutral colors, they bring teh user's attention to the photos, which are one of the main reasons car fans viist car websites.
+      a. The two main colors used are white (as the background color, just like in most car websites, where the many images tend to be very colorful and big and can be better looked at with a neutral, but bright background) and black (the text color, which makes it easier to read all the technical text when the background color is white). Being neutral colors, they bring teh user's attention to the photos, which are one of the main reasons car fans viist car websites.
 
-  <strong>o Typography</strong>
+  **o Typography**
 
-            a. The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+      a. The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+  **o Imagery**
 
-  <strong>o Imagery</strong>
+      a. Images are crucial. Car website are visually appealing, and what the user of such websites visits one, what he/she wants to look at mostly is the car images. There's a different photo of the R34 separting each section of teh website, and a gallery with many others.
 
-            a. Images are crucial. Car website are visually appealing, and what the user of such websites visits one, what he/she wants to look at mostly is the car images. There's a different photo of the R34 separting each section of teh website, and a gallery with many others.
+**• Wireframes**
 
-<strong>• Wireframes</strong>
+    o Desktop wireframe (Home page) - View
 
-          o Desktop wireframe (Home page) - View
+    o Desktop wireframe (History page) - View
 
-          o Desktop wireframe (History page) - View
+    o Desktop wireframe (Specs page) - View
 
-          o Desktop wireframe (Specs page) - View
+    o Desktop wireframe (Powertrain page) - View
 
-          o Desktop wireframe (Powertrain page) - View
+    o Desktop wireframe (Gallery page) - View
 
-          o Desktop wireframe (Gallery page) - View
+    o Desktop wireframe (Videos page) - View
 
-          o Desktop wireframe (Videos page) - View
+    o Desktop wireframe (About page) - View
 
-          o Desktop wireframe (About page) - View
+    o Mobile wireframe (Home page) - View
 
-          o Mobile wireframe (Home page) - View
+    o Mobile wireframe (History page) - View
 
-          o Mobile wireframe (History page) - View
+    o Mobile wireframe (Specs page) - View
 
-          o Mobile wireframe (Specs page) - View
+    o Mobile wireframe (Powertrain page) - View
 
-          o Mobile wireframe (Powertrain page) - View
+    o Mobile wireframe (Gallery page) - View
 
-          o Mobile wireframe (Gallery page) - View
+    o Mobile wireframe (Videos page) - View
 
-          o Mobile wireframe (Videos page) - View
+    o Mobile wireframe (About page) - View
 
-          o Mobile wireframe (About page) - View
+    o NOT USED (original idea) - Desktop wireframe (Home page) - View
 
-          o NOT USED (original idea) - Desktop wireframe (Home page) - View
+    o NOT USED (original idea) - Desktop wireframe (History page) - View
 
-          o NOT USED (original idea) - Desktop wireframe (History page) - View
+    o NOT USED (original idea) - Desktop wireframe (Specs page) - View
 
-          o NOT USED (original idea) - Desktop wireframe (Specs page) - View
+    o NOT USED (original idea) - Desktop wireframe (Powertrain page) - View
 
-          o NOT USED (original idea) - Desktop wireframe (Powertrain page) - View
+    o NOT USED (original idea) - Desktop wireframe (Gallery page) - View
 
-          o NOT USED (original idea) - Desktop wireframe (Gallery page) - View
+    o NOT USED (original idea) - Desktop wireframe (Videos page) - View
 
-          o NOT USED (original idea) - Desktop wireframe (Videos page) - View
-
-          o NOT USED (original idea) - Desktop wireframe (About page) - View
+    o NOT USED (original idea) - Desktop wireframe (About page) - View
       
 ## Features
 
@@ -203,76 +202,77 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Testing User Stories from User Experience (UX) Section
 
-<strong>• First-Time Visitor Goals</strong>
+**• First-Time Visitor Goals**
 
-          i. As a first-time visitor, I want to easily understand what the website is about, navigate with ease throughout it all and find functional, yet interesting content.
+    i. As a first-time visitor, I want to easily understand what the website is about, navigate with ease throughout it all and find functional, yet interesting content.
 
-            a. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
+      a. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
 
-            b. The main points are made immediately with the hero image
+      b. The main points are made immediately with the hero image
 
-            c. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
+      c. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
 
-          ii. As a first-time visitor, I want to find good, specific and relevant content about the R34: a mix of the car's technical details, good quality photos and informative videos about this specific model, all in one website.
+    ii. As a first-time visitor, I want to find good, specific and relevant content about the R34: a mix of the car's technical details, good quality photos and informative videos about this specific model, all in one website.
 
-            a. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+      a. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
 
-            b. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
+      b. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
 
-            c. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+      c. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
 
-          iii. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
+    iii. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
 
-            a. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
+      a. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
 
-            b. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
+      b. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
 
-            c. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+      c. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
 
-<strong>• Returning Visitor Goals</strong>
+**• Returning Visitor Goals**
 
-          i. As a returning visitor, and because this is a website for car fans, who tend to visit the same car websites regularly for different purposes (because they're working on a preoject car and they need detailed information about a specific model or parts, or ideas based on the R34's style and features for their own car, which is information that needs to be constantly accessed depending on the project car they're working on, for example), I want to be able to easily access the same good information about the R34 that I accessed the first time I visited the website and that impressed me so much.
+    i. As a returning visitor, and because this is a website for car fans, who tend to visit the same car websites regularly for different purposes (because they're working on a preoject car and they need detailed information about a specific model or parts, or ideas based on the R34's style and features for their own car, which is information that needs to be constantly accessed depending on the project car they're working on, for example), I want to be able to easily access the same good information about the R34 that I accessed the first time I visited the website and that impressed me so much.
 
-            a. These are clearly shown in the banner message.
+      a. These are clearly shown in the banner message.
 
-            b. They will be directed to a page with another hero image and call to action.
+      b. They will be directed to a page with another hero image and call to action.
 
-          ii. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+    ii. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
 
-            a. The navigation bar clearly highlights the "Contact Us" Page.
+      a. The navigation bar clearly highlights the "Contact Us" Page.
 
-            b. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
+      b. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
 
-            c. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
+      c. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
 
-            d. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+      d. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
 
-            e. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+      e. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
 
-          iii. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+    iii. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
 
-            a. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
+      a. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
 
-            b. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
+      b. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
 
-            c. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
+      c. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
 
-<strong>• Frequent User Goals</strong>
+**• Frequent User Goals**
 
-          i. As a frequent user, I want this information to be available at all times so I can access it whenever I need it and show it to other R34 aficionados in my local car community and car fans in general - spreading good car information is what car people do when they meet other gearheads, and websites like this are a good source of car knowledge.
+    i. As a frequent user, I want this information to be available at all times so I can access it whenever I need it and show it to other R34 aficionados in my local car community and car fans in general - spreading good car information is what car people do when they meet other gearheads, and websites like this are a good source of car knowledge.
 
-            a. The user would already be comfortable with the website layout and can easily click the banner message.
+      a. The user would already be comfortable with the website layout and can easily click the banner message.
 
-          ii. As a Frequent User, I want to check to see if there are any new blog posts.
-            a. The user would already be comfortable with the website layout and can easily click the blog link
+    ii. As a Frequent User, I want to check to see if there are any new blog posts.
 
-          iii. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+      a. The user would already be comfortable with the website layout and can easily click the blog link
 
-            a. At the bottom of every page their is a footer which content is consistent throughout all pages.
+    iii. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
-            b. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
+      a. At the bottom of every page their is a footer which content is consistent throughout all pages.
 
-            c. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+      b. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
+
+      c. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
 
 ### Further Testing
 
@@ -366,15 +366,15 @@ Click Here to retrieve pictures for some of the buttons and more detailed explan
 
 ### Content
 
-  • All text on this website, except for the content on the Home and About pages, was taken from two Wikipedia articles: one about the [Nissan Skyline GT-R](https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R) and another one about the [RB26DETT engine](https://en.wikipedia.org/wiki/Nissan_RB_engine#RB26DETT).
+    • All text on this website, except for the content on the Home and About pages, was taken from two Wikipedia articles: one about the [Nissan Skyline GT-R](https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R) and another one about the [RB26DETT engine](https://en.wikipedia.org/wiki/Nissan_RB_engine#RB26DETT).
 
 ### Media
 
-  • The photos used as the background images of every page on this website were taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/) with the permission of the rightful owner of those photos, Mr Stefan Kotze, a famous South African automotive photographer and regular contributor to Speedhunters (this permission was given by email, which is available on request).
+    • The photos used as the background images of every page on this website were taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/) with the permission of the rightful owner of those photos, Mr Stefan Kotze, a famous South African automotive photographer and regular contributor to Speedhunters (this permission was given by email, which is available on request).
 
-  • The images used for the gallery page were also taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/), also with the permission of the rightful owner of those photos, Mr Stefan Kotze.
+    • The images used for the gallery page were also taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/), also with the permission of the rightful owner of those photos, Mr Stefan Kotze.
 
-  • All four videos are iFramed from YouTube, which offers this option – they’re videos by [Throttle House](https://www.youtube.com/watch?v=9mhOJggoa_Q), [Top Gear](https://www.youtube.com/watch?v=N5Uk5uzyNZo), [Donut Media](https://www.youtube.com/watch?v=AZce2B8DMDQ) and [Speedhunters](https://www.youtube.com/watch?v=o4wXfgfGVNM&t=67s), famous YouTube car channels (the Top Gear video is iFramed from the YouTube page of user “Insomnia K”, while all others are iFramed from the car channels' own YouTube channel).
+    • All four videos are iFramed from YouTube, which offers this option – they’re videos by [Throttle House](https://www.youtube.com/watch?v=9mhOJggoa_Q), [Top Gear](https://www.youtube.com/watch?v=N5Uk5uzyNZo), [Donut Media](https://www.youtube.com/watch?v=AZce2B8DMDQ) and [Speedhunters](https://www.youtube.com/watch?v=o4wXfgfGVNM&t=67s), famous YouTube car channels (the Top Gear video is iFramed from the YouTube page of user “Insomnia K”, while all others are iFramed from the car channels' own YouTube channel).
 
 ### Acknowledgements
 
