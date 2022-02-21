@@ -32,14 +32,14 @@ This website is designed to be responsive and accessible on a range of devices, 
 
   **o Colour Scheme**
 
-      a. The two main colors used are white (as the background color, just like in most car websites, where the many images tend to be very colorful and big and can be better looked at with a neutral, but bright background) and black (the text color, which makes it easier to read all the technical text when the background color is white). Being neutral colors, they bring teh user's attention to the photos, which are one of the main reasons car fans viist car websites.
+            a. The two main colors used are white (as the background color, just like in most car websites, where the many images tend to be very colorful and big and can be better looked at with a neutral, but bright background) and black (the text color, which makes it easier to read all the technical text when the background color is white). Being neutral colors, they bring teh user's attention to the photos, which are one of the main reasons car fans viist car websites.
 
   **o Typography**
 
-      a. The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+            a. The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
   **o Imagery**
 
-      a. Images are crucial. Car website are visually appealing, and what the user of such websites visits one, what he/she wants to look at mostly is the car images. There's a different photo of the R34 separting each section of teh website, and a gallery with many others.
+            a. Images are crucial. Car website are visually appealing, and what the user of such websites visits one, what he/she wants to look at mostly is the car images. There's a different photo of the R34 separting each section of teh website, and a gallery with many others.
 
 **• Wireframes**
 
