@@ -39,7 +39,7 @@ This website is designed to be responsive and accessible on a range of devices, 
             a. The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
   **o Imagery**
 
-            a. Images are crucial. Car website are visually appealing, and what the user of such websites visits one, what he/she wants to look at mostly is the car images. There's a different photo of the R34 separting each section of teh website, and a gallery with many others.
+            a. Images are crucial. Car website are visually appealing, and what the user of such websites visits one, what he/she wants to look at mostly is the car images. There's a different photo of the R34 separating each section of the website, and a gallery with many others.
 
 **• Wireframes**
 
@@ -322,7 +322,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 ### Making a Local Clone
 
-    1. Log in to GitHub and locate the GitHub Repository
+    1. Log in to GitHub and locate the GitHub Repository.
 
     2. Under the repository name, click "Clone or download".
 
@@ -364,7 +364,7 @@ Click Here to retrieve pictures for some of the buttons and more detailed explan
 
 ### Content
 
-    • All text on this website, except for the content on the Home and About pages, was taken from two Wikipedia articles: one about the [Nissan Skyline GT-R](https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R) and another one about the [RB26DETT engine](https://en.wikipedia.org/wiki/Nissan_RB_engine#RB26DETT).
+    • All text on this website, except for the content text on the Home and About pages, was taken from two Wikipedia articles: one about the [Nissan Skyline GT-R](https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R) and another one about the [RB26DETT engine](https://en.wikipedia.org/wiki/Nissan_RB_engine#RB26DETT).
 
 ### Media
 
@@ -372,7 +372,7 @@ Click Here to retrieve pictures for some of the buttons and more detailed explan
 
     • The images used for the gallery page were also taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/), also with the permission of the rightful owner of those photos, Mr Stefan Kotze.
 
-    • All four videos are iFramed from YouTube, which offers this option – they’re videos by [Throttle House](https://www.youtube.com/watch?v=9mhOJggoa_Q), [Top Gear](https://www.youtube.com/watch?v=N5Uk5uzyNZo), [Donut Media](https://www.youtube.com/watch?v=AZce2B8DMDQ) and [Speedhunters](https://www.youtube.com/watch?v=o4wXfgfGVNM&t=67s), famous YouTube car channels (the Top Gear video is iFramed from the YouTube page of user “Insomnia K”, while all others are iFramed from the car channels' own YouTube channel).
+    • All four videos are iFramed from YouTube, which offers this option – they’re videos by [Throttle House](https://www.youtube.com/watch?v=9mhOJggoa_Q), [Top Gear](https://www.youtube.com/watch?v=N5Uk5uzyNZo), [Donut Media](https://www.youtube.com/watch?v=AZce2B8DMDQ) and [Speedhunters](https://www.youtube.com/watch?v=o4wXfgfGVNM&t=67s), famous YouTube car channels (the Top Gear video is iFramed from the YouTube page of user “Insomnia K”, while all others are iFramed from the car channels' own YouTube channels).
 
 ### Acknowledgements
 
