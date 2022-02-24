@@ -23,7 +23,7 @@ a {
     color: black;
 }
 
-.parent {
+.container {
     top: 0;
     left: 0;
     margin: auto;
@@ -44,6 +44,10 @@ a {
 .menu {
     align-items: center;
     display: flex;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid black;
 }
 
 .menu ul {
