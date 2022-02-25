@@ -9,21 +9,29 @@
 }
 
 body {
-    font-family: Carme;
+    font-family: Carme, sans-serif;
     font-weight: 400;
 }
 
 h1, h2, h3 {
-    font-family: Racing Sans One;
+    font-family: Racing Sans One, sans-serif;
     font-weight: 400;
 }
+
+h2 { 
+    margin-top: -50px;
+    padding-top: 50px; 
+    display: inline-block; 
+  }
+
+/* Navigation */
 
 a {
     text-decoration: none;
     color: black;
 }
 
-.container {
+.navbar-container {
     top: 0;
     left: 0;
     margin: auto;
@@ -33,7 +41,7 @@ a {
 
 .navbar {
     justify-content: space-between;
-    background-color: white;
+    background-color: #C0C0C0;
     display: flex;
 }
 
@@ -51,18 +59,72 @@ a {
 }
 
 .menu ul {
-    display: flex;
     justify-content: flex-end;
     align-items: center;
     list-style: none;
+    display: flex;
     background-color: white;
   }
 
   .menu li {
     margin-left: 20px;
-    padding: 20px;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: white;
+    color: black;  
+  }
+
+  /* Main */
+
+  main {
+    margin-bottom: 50px;
+}
+
+  /* Footer */
+
+  .footer-container {
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 100%;
+    position: fixed;
+  }
+
+  .footer {
+    justify-content: space-between;
+    padding: 2px;
+    background-color: #C0C0C0;
+    display: flex;
+  }
+
+  .copyright-notice {
+      padding: 5px;
+      background-color: white;
+      color: black;
+      font-size: 12px;
+      font-weight: bold;
+  }
+
+  .social.media.icons {
+    align-items: center;
+    display: flex;
+  }
+
+.social-media-icons ul {
+    list-style-type: none;
+    align-items: center;
+    justify-content: flex-end;
+    display: flex;
+    background-color: #C0C0C0;
+    color: black;
+  }
+
+  .social-media-icons li {
+    margin-left: 160px;
+    padding: 5px;
     background-color: white;
     color: black;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: bold;
   }
