@@ -13,16 +13,44 @@ body {
     font-weight: 400;
 }
 
-h1, h2, h3 {
+h1 {
     font-family: Racing Sans One, sans-serif;
     font-weight: 400;
+    font-size: 250%;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 175px;
+    margin-left: 175px;
 }
 
-h2 { 
+#second-main-heading {
+  text-transform: none;
+  font-size: 200%;
+}
+
+h2 {
+    font-family: Racing Sans One, sans-serif;
+    font-weight: 400;
+    font-size: 150%;
     margin-top: -50px;
     padding-top: 50px; 
-    display: inline-block; 
-  }
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+h3 {
+    font-family: Racing Sans One, sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+}
 
 /* Navigation */
 
@@ -64,52 +92,81 @@ a {
     list-style: none;
     display: flex;
     background-color: white;
-  }
+}
 
-  .menu li {
+.menu li {
     margin-left: 20px;
     padding: 10px;
     font-size: 16px;
     font-weight: bold;
     background-color: white;
     color: black;  
-  }
-
-  /* Main */
-
-  main {
-    margin-bottom: 50px;
 }
 
-  /* Footer */
+/* Main */
 
-  .footer-container {
+main {
+    margin-bottom: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    line-height: 1.8em;
+    text-transform: none;
+    text-align: justify;
+}
+
+main a {
+    text-decoration: none;
+    color: #0000FF;
+}
+
+main a:hover {
+  border-bottom: 1px solid #0000FF;
+}
+
+main p {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 175px;
+    margin-left: 175px;
+}
+
+.main-lists {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 175px;
+    margin-left: 175px;  
+}
+
+/* Footer */
+
+.footer-container {
     bottom: 0;
     left: 0;
     margin: auto;
     width: 100%;
     position: fixed;
-  }
+}
 
-  .footer {
+.footer {
     justify-content: space-between;
     padding: 2px;
     background-color: #C0C0C0;
     display: flex;
-  }
+}
 
-  .copyright-notice {
-      padding: 5px;
-      background-color: white;
-      color: black;
-      font-size: 12px;
-      font-weight: bold;
-  }
+.copyright-notice {
+    padding: 5px;
+    background-color: white;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+}
 
-  .social.media.icons {
+.social.media.icons {
     align-items: center;
     display: flex;
-  }
+}
 
 .social-media-icons ul {
     list-style-type: none;
@@ -118,13 +175,13 @@ a {
     display: flex;
     background-color: #C0C0C0;
     color: black;
-  }
+}
 
-  .social-media-icons li {
+.social-media-icons li {
     margin-left: 160px;
     padding: 5px;
     background-color: white;
     color: black;
     font-size: 12px;
     font-weight: bold;
-  }
+}
