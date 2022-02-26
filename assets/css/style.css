@@ -62,7 +62,7 @@ h3 {
     padding: 0;
 }
 
-/* Navigation */
+/* Navigation and header*/
 
 a {
     text-decoration: none;
@@ -117,6 +117,21 @@ a {
     color: black;  
 }
 
+#home-image-1 {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+}
+
+#home-image-1 img {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 415px;
+    width: 58%;
+}
+
 /* Main */
 
 main {
@@ -150,6 +165,12 @@ main p {
     margin-bottom: 40px;
     margin-right: 175px;
     margin-left: 175px;  
+}
+
+main img {
+    max-width: 50%;
+    height: auto;
+    align-items: center;
 }
 
 /* Videos */
