@@ -137,8 +137,8 @@ a {
     justify-content: center;
     display: flex;
     flex-direction: row;
-    height: 470px;
-    width: 60%;
+    height: 550px;
+    width: 75%;
 }
 
 #header-logo-image {
