@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-    font-family: Racing Sans One, sans-serif;
+    font-family: "Racing Sans One", sans-serif;
     font-weight: 400;
     font-size: 250%;
     text-transform: uppercase;
@@ -37,7 +37,7 @@ h1 {
 }
 
 h2 {
-    font-family: Racing Sans One, sans-serif;
+    font-family: "Racing Sans One", sans-serif;
     font-weight: 400;
     font-size: 150%;
     margin-top: -50px;
@@ -50,7 +50,7 @@ h2 {
 }
 
 h3 {
-    font-family: Racing Sans One, sans-serif;
+    font-family: "Racing Sans One", sans-serif;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -266,4 +266,36 @@ iframe {
     color: black;
     font-size: 12px;
     font-weight: bold;
+}
+
+/* Media queries */
+
+@media screen and (min-width: 1201px) and (max-width: 1400px) {
+    #home-image-1 img {
+        height: auto;
+        width: 80%;
+    }  
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+    #home-image-1 {
+        justify-content: center;
+        display: flex;
+        flex-direction: row;
+        padding-bottom: 10px;    
+    }
+    
+    #home-image-1 img {
+        height: auto;
+        width: 80%;
+    }
+
+    #second-main-heading {
+        text-transform: none;
+        font-size: 150%;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    
 }
