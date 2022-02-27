@@ -296,6 +296,62 @@ iframe {
     }
 }
 
-@media screen and (min-width: 769px) and (max-width: 1024px) {
+@media screen and (min-width: 769px) and (max-width: 1024px) {    
+    .menu li {
+        margin-right: 0;
+        margin-left: 0;
+        padding: 10px;
+        font-size: 16px;
+        font-weight: bold;
+        background-color: white;
+        color: black;  
+    }
+
+    #home-image-1 {
+        justify-content: center;
+        display: flex;
+        flex-direction: row;
+        padding-bottom: 10px;
+    }
+
+    #home-image-1 img {
+        height: auto;
+        width: 80%;
+    }
+
+    h1 {
+        font-family: "Racing Sans One", sans-serif;
+        font-weight: 400;
+        font-size: 250%;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        text-align: center;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        margin-right: 175px;
+        margin-left: 175px;
+        line-height: 40px;
+    }
+
+    #second-main-heading {
+        text-transform: none;
+        font-size: 200%;
+        line-height: 40px;
+    }
+
+    main p {
+        margin-top: 40px;
+        margin-bottom: 40px;
+        margin-right: 100px;
+        margin-left: 100px;
+    }
     
+    .social-media-icons li {
+        margin-left: 100px;
+        padding: 5px;
+        background-color: white;
+        color: black;
+        font-size: 12px;
+        font-weight: bold;
+    }
 }
