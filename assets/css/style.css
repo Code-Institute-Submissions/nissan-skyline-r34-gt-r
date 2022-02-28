@@ -333,7 +333,7 @@ iframe {
 
 /* Media queries for tablets and iPads */
 
-@media screen and (min-width: 481px) and (max-width: 768px) {    
+@media screen and (min-width: 481px) and (max-width: 768px) {
     .navbar {
         flex-direction: column;
         padding-right: 0;
@@ -416,10 +416,9 @@ iframe {
 
 /* Media queries for mobile devices */
 
-@media screen and (min-width: 320px) and (max-width: 480px) {    
+@media screen and (min-width: 320px) and (max-width: 480px) {
     .navbar {
         flex-direction: column;
-        padding-right: 0;
         padding-left: 10px;
         padding-bottom: 13px;
     }
@@ -431,6 +430,8 @@ iframe {
 
     .menu ul {
         flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
     }
 
     .menu li {
@@ -447,61 +448,66 @@ iframe {
 
     #home-image-1 img {
         height: auto;
-        width: 100%;
-        margin-left: 59px;
+        width: 90%;
     }
 
     h1 {
         font-size: 161%;
         margin-right: 0px;
-        margin-left: 75px;
-        line-height: 40px;
+        margin-left: 0;
+        line-height: 35px;
     }
 
     #second-main-heading {
         font-size: 116%;
         line-height: 30px;
-        margin-right: 0;
-        margin-left: 65px;
+        margin-right: 10px;
+        margin-left: 10px;
     }
 
     #header-logo-image {
         flex-direction: column;
-        margin-left: 65px;
+        width: 90%;
+        margin-right: auto;
+        margin-left: auto;
     }
 
     h2 {
-        margin-left: 75px;
-        margin-top: -105px;
-        padding-top: 105px;
-    }
-    
-    h3 {
-        margin-left: 65px;
+        margin-top: -110px;
+        padding-top: 110px;
     }
     
     .h3-videos-headings h3 {
-        margin-left: 55px;
         font-size: 90%;
         letter-spacing: 1px;
     }
 
     main p {
-        margin-right: -30px;
-        margin-left: 30px;
+        margin-right: 10px;
+        margin-left: 10px;
     }
 
     .main-lists {
-        margin-right: 5px;
-        margin-left: 75px;  
+        margin-right: 15px;
+        margin-left: 35px;
     }
 
     main img {
-        max-width: 100%;
-        margin-left: 60px;
+        max-width: 90%;
+    }
+
+
+    iframe {
+        width: 245px;
+        height: 165px;
     }
 
     .social-media-icons li {
-        margin-left: 20px;
+        margin-left: 0;
+        margin-right: 7px;
+    }
+
+    body {
+        overflow-x: hidden;
     }
 }
