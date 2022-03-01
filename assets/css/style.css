@@ -276,7 +276,15 @@ iframe {
     #home-image-1 img {
         height: auto;
         width: 80%;
-    }  
+    }
+
+    main p {
+        font-size: large;
+    }
+
+    .main-lists {
+        font-size: large;
+    }
 }
 
 /* Media queries for desktops and large screens */
@@ -293,6 +301,14 @@ iframe {
 
     #second-main-heading {
         font-size: 150%;
+    }
+
+    main p {
+        font-size: large;
+    }
+
+    .main-lists {
+        font-size: large;
     }
 }
 
@@ -324,6 +340,11 @@ iframe {
     main p {
         margin-right: 100px;
         margin-left: 100px;
+        font-size: large;
+    }
+
+    .main-lists {
+        font-size: large;
     }
 
     .social-media-icons li {
