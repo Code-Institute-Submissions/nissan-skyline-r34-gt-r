@@ -40,8 +40,8 @@ h2 {
     font-family: "Racing Sans One", sans-serif;
     font-weight: 400;
     font-size: 150%;
-    margin-top: -50px;
-    padding-top: 50px; 
+    margin-top: -55px;
+    padding-top: 55px; 
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -336,8 +336,8 @@ iframe {
 @media screen and (min-width: 481px) and (max-width: 768px) {
     .navbar {
         flex-direction: column;
-        padding-right: 0;
-        padding-left: 10px;
+        padding-right: 13px;
+        padding-left: 13px;
         padding-bottom: 13px;
     }
     
@@ -346,9 +346,23 @@ iframe {
         padding-left: 0px;
     }
 
+    .menu {
+        display: inline-block;
+    }
+
+    .menu ul {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
     .menu li {
-        margin-right: 0;
-        margin-left: 0; 
+        margin-right: 0px;
+        margin-left: 0;
+        padding-right: 3px;
+        padding-left: 3px;
+        font-size: 16px;
+        justify-content: center;
     }
 
     #home-image-1 {
@@ -358,55 +372,58 @@ iframe {
 
     #home-image-1 img {
         height: auto;
-        width: 100%;
-        margin-left: 60px;
+        width: 90%;
     }
+
 
     h1 {
         font-size: 200%;
         margin-right: 50px;
-        margin-left: 125px;
+        margin-left: 50px;
         line-height: 40px;
     }
 
     #second-main-heading {
         font-size: 150%;
         line-height: 40px;
-        margin-left: 125px;
+        margin-right: 75px;
+        margin-left: 75px;
     }
 
     #header-logo-image {
         flex-direction: column;
-        margin-left: 65px;
+        width: 90%;
+        margin-right: auto;
+        margin-left: auto;
     }
 
     h2 {
-        margin-left: 75px;
         margin-top: -105px;
         padding-top: 105px;
     }
-    
-    h3 {
-        margin-left: 75px;
-    }
+
     
     .h3-videos-headings h3 {
-        margin-left: 55px;
+        letter-spacing: 1px;
     }
 
     main p {
-        margin-right: 5px;
-        margin-left: 75px;
+        margin-right: 15px;
+        margin-left: 15px;
     }
 
     .main-lists {
-        margin-right: 5px;
-        margin-left: 75px;  
+        margin-right: 15px;
+        margin-left: 35px;  
     }
 
     main img {
-        max-width: 100%;
-        margin-left: 60px;
+        max-width: 90%;
+    }
+
+    iframe {
+        width: 350px;
+        height: 225px;
     }
 
     .social-media-icons li {
@@ -426,6 +443,10 @@ iframe {
     .logo {
         padding-top: 10px;
         padding-left: 0px;
+    }
+
+    .menu {
+        display: inline-block;
     }
 
     .menu ul {
@@ -453,16 +474,16 @@ iframe {
 
     h1 {
         font-size: 161%;
-        margin-right: 0px;
-        margin-left: 0;
+        margin-right: 25px;
+        margin-left: 25px;
         line-height: 35px;
     }
 
     #second-main-heading {
         font-size: 116%;
         line-height: 30px;
-        margin-right: 10px;
-        margin-left: 10px;
+        margin-right: 20px;
+        margin-left: 20px;
     }
 
     #header-logo-image {
