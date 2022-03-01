@@ -515,12 +515,8 @@ iframe {
     }
 
     iframe {
-        width: 265px;
+        width: 245px;
         height: 175px;
-        margin-right: 0;
-        margin-left: 20px;
-        padding-right: 0;
-        padding-left: 0;
     }
 
     .social-media-icons li {
