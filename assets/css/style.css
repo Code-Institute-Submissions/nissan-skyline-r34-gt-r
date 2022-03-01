@@ -361,7 +361,6 @@ iframe {
         margin-left: 0;
         padding-right: 3px;
         padding-left: 3px;
-        font-size: 16px;
         justify-content: center;
     }
 
@@ -374,7 +373,6 @@ iframe {
         height: auto;
         width: 90%;
     }
-
 
     h1 {
         font-size: 200%;
@@ -402,7 +400,6 @@ iframe {
         padding-top: 105px;
     }
 
-    
     .h3-videos-headings h3 {
         letter-spacing: 1px;
     }
@@ -516,7 +513,6 @@ iframe {
     main img {
         max-width: 90%;
     }
-
 
     iframe {
         width: 245px;
