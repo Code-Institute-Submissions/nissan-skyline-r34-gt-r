@@ -1,6 +1,6 @@
 # Nissan Skyline R34 GT-R Website
 
-View the live project here.
+[View the live project here.](https://pedromiguelferreira.github.io/nissan-skyline-r34-gt-r/index.html)
 
 This is a website for Nissan Skyline R-34 GT-R aficionados. This car is a legend in the worldwide car community. It’s extremely popular with street racers, tuners and car fans around the world, and even in motorsports. It’s every car person’s dream project car. And, if you're of a certain age group (my age group), you grew up playing racing games on PlayStation, watching “The Fast and the Furious” and you were absolutely obsessed with Initial D.
 
@@ -16,74 +16,75 @@ This website is designed to be responsive and accessible on a range of devices, 
 
   **o First-time Visitor Goals**
 
-            a. As a first-time visitor, I want to easily understand what the website is about, navigate with ease throughout it all and find functional, yet interesting content.
+  a. As a first-time visitor, I want to easily understand what the website is about, navigate with ease throughout it all and find functional, yet interesting content.
 
-            b. As a first-time visitor, I want to find good, specific and relevant content about the R34: a mix of the car's technical details, good quality photos and informative videos about this specific model, all in one website.
+  b. As a first-time visitor, I want to find good, specific and relevant content about the R34: a mix of the car's technical details, good quality photos and informative videos about this specific model, all in one website.
 
   **o Returning Visitor Goals**
 
-            a. As a returning visitor, and because this is a website for car fans, who tend to visit the same car websites regularly for different purposes (because they're working on a preoject car and they need detailed information about a specific model or parts, or ideas based on the R34's style and features for their own car, which is information that needs to be constantly accessed depending on the project car they're working on, for example), I want to be able to easily access the same good information about the R34 that I accessed the first time I visited the website and that impressed me so much.
+  a. As a returning visitor, and because this is a website for car fans, who tend to visit the same car websites regularly for different purposes (because they're working on a project car and they need detailed information about a specific model or parts, or ideas based on the R34's style and features for their own car, which is information that needs to be constantly accessed depending on the project car they're working on, for example), I want to be able to easily access the same good information about the R34 that I accessed the first time I visited the website and that impressed me so much.
 
   **o Frequent User Goals**
 
-            a. As a frequent user, I want this information to be available at all times so I can access it whenever I need it and show it to other R34 aficionados in my local car community and car fans in general - spreading good car information is what car people do when they meet other gearheads, and websites like this are a good source of car knowledge.
+  a. As a frequent user, I want this information to be available at all times so I can access it whenever I need it and show it to other R34 aficionados in my local car community and car fans in general - spreading good car information is what car people do when they meet other gearheads, and websites like this are a good source of car knowledge at all times.
 
 **• Design**
 
-  **o Colour Scheme**
+  **o Color Scheme**
 
-            a. The two main colors used are white (as the background color, just like in most car websites, where the many images tend to be very colorful and big and can be better looked at with a neutral, but bright background) and black (the text color, which makes it easier to read all the technical text when the background color is white). Being neutral colors, they bring teh user's attention to the photos, which are one of the main reasons car fans viist car websites.
+  a. The four main colors used are white (as the background color, just like in most car websites, where the many images tend to be very colorful and big and can be better looked at with a neutral, but bright background), black (the text color, which makes it easier to read all the technical text when the background color is white - being neutral colors, they bring the user's attention to the photos, which are one of the main reasons car fans visit car websites - and it's also used on the R34 featured on this website), silver (the colors of both the navbar background and the footer background - this matches the silver color of the R34 featured on every image on the website, so I thought it would be a good combination) and red (which is also used on the R34 that featured on this website - I thought it would be a good idea to create the hyperlinks for the website text in Tail Lights red, it seemed very appropriate). Given the content of the website, I believe this white-black-silver-red color combination works well, suits the layout and triggers a good emotional response from the users.
 
   **o Typography**
 
-            a. The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+  a. The text and menus font used is the Carme font, a font that makes text both elegant and easy to read, with sans-serif as the fallback font in case, for some reason, the font isn't being imported into the site correctly. The headings font used is Racing Sans One (for obvious reasons, it's a website about a car), which is very common in the world of motorsports. I believe its style suits the content, the layout, the purpose and the feeling of speed this website wants to create in its users.
+
   **o Imagery**
 
-            a. Images are crucial. Car website are visually appealing, and what the user of such websites visits one, what he/she wants to look at mostly is the car images. There's a different photo of the R34 separating each section of the website, and a gallery with many others.
+  a. Images are crucial. Car websites are visually appealing, and when the user of such websites visits one, what he/she wants to look at mostly is the car images - it's the same when we want to buy a car and visit the automaker's website to look at the images and make a decision. There's a different photo of the R34 separating each section of the website, and a gallery with many others, but my favorite is the main image at the top of the page (underneath the navbar) - in my opinion, it's the most appealing of them all, so I've decided to make it the first thing the users see when they land on the website.
 
 **• Wireframes**
 
-    o Desktop wireframe (Home page) - View
+  o Desktop wireframe (Home page) - [View](assets/wireframes/wireframe-r34-desktop-1.png)
 
-    o Desktop wireframe (History page) - View
+  o Desktop wireframe (History page) - [View](assets/wireframes/wireframe-r34-desktop-2.png)
 
-    o Desktop wireframe (Specs page) - View
+  o Desktop wireframe (Specs page) - [View](assets/wireframes/wireframe-r34-desktop-3.png)
 
-    o Desktop wireframe (Powertrain page) - View
+  o Desktop wireframe (Powertrain page) - [View](assets/wireframes/wireframe-r34-desktop-4.png)
 
-    o Desktop wireframe (Gallery page) - View
+  o Desktop wireframe (Gallery page) - [View](assets/wireframes/wireframe-r34-desktop-5.png)
 
-    o Desktop wireframe (Videos page) - View
+  o Desktop wireframe (Videos page) - [View](assets/wireframes/wireframe-r34-desktop-6.png)
 
-    o Desktop wireframe (About page) - View
+  o Desktop wireframe (About page) - [View](assets/wireframes/wireframe-r34-desktop-7.png)
 
-    o Mobile wireframe (Home page) - View
+  o Mobile wireframe (Home page) - [View](assets/wireframes/wireframe-r34-mobile-1.png)
 
-    o Mobile wireframe (History page) - View
+  o Mobile wireframe (History page) - [View](assets/wireframes/wireframe-r34-mobile-2.png)
 
-    o Mobile wireframe (Specs page) - View
+  o Mobile wireframe (Specs page) - [View](assets/wireframes/wireframe-r34-mobile-3.png)
 
-    o Mobile wireframe (Powertrain page) - View
+  o Mobile wireframe (Powertrain page) - [View](assets/wireframes/wireframe-r34-mobile-4.png)
 
-    o Mobile wireframe (Gallery page) - View
+  o Mobile wireframe (Gallery page) - [View](assets/wireframes/wireframe-r34-mobile-5.png)
 
-    o Mobile wireframe (Videos page) - View
+  o Mobile wireframe (Videos page) - [View](assets/wireframes/wireframe-r34-mobile-6.png)
 
-    o Mobile wireframe (About page) - View
+  o Mobile wireframe (About page) - [View](assets/wireframes/wireframe-r34-mobile-7.png)
 
-    o NOT USED (original idea) - Desktop wireframe (Home page) - View
+  o NOT USED (original idea) - Desktop wireframe (Home page) - [View](assets/wireframes/wireframe-r34-desktop-not-used-1.jpg)
 
-    o NOT USED (original idea) - Desktop wireframe (History page) - View
+  o NOT USED (original idea) - Desktop wireframe (History page) - [View](assets/wireframes/wireframe-r34-desktop-not-used-2.jpg)
 
-    o NOT USED (original idea) - Desktop wireframe (Specs page) - View
+  o NOT USED (original idea) - Desktop wireframe (Specs page) - [View](assets/wireframes/wireframe-r34-desktop-not-used-3.jpg)
 
-    o NOT USED (original idea) - Desktop wireframe (Powertrain page) - View
+  o NOT USED (original idea) - Desktop wireframe (Powertrain page) - [View](assets/wireframes/wireframe-r34-desktop-not-used-4.jpg)
 
-    o NOT USED (original idea) - Desktop wireframe (Gallery page) - View
+  o NOT USED (original idea) - Desktop wireframe (Gallery page) - [View](assets/wireframes/wireframe-r34-desktop-not-used-5.jpg)
 
-    o NOT USED (original idea) - Desktop wireframe (Videos page) - View
+  o NOT USED (original idea) - Desktop wireframe (Videos page) - [View](assets/wireframes/wireframe-r34-desktop-not-used-6.jpg)
 
-    o NOT USED (original idea) - Desktop wireframe (About page) - View
+  o NOT USED (original idea) - Desktop wireframe (About page) - [View](assets/wireframes/wireframe-r34-desktop-not-used-7.jpg)
       
 ## Features
 
