@@ -88,59 +88,63 @@ This website is designed to be responsive and accessible on a range of devices, 
       
 ## Features
 
-    • Responsive on all device sizes
+  • Responsive on all device sizes
 
-    • Interactive elements
+  • Interactive elements
 
-    • Navigation Bar
+  • Navigation Bar
 
-      o Featured at the top of the scrolling single-page, the fully responsive navigation/link bar introduces the user to all the specific content on the website by showing links to the Home section, the History section, the Specs section, the Powertrain section, the Gallery section, the Videos section and the About section. It's a sticky navigation/link bar, so it follows the user's viewport as he/she scrolls down the long single-page, allowing the user to easily navigate through the content across all devices without having to go back to the top of the page to access other sections.
+  o Featured at the top of the scrolling single-page, the fully responsive navigation/link bar introduces the user to all the specific content on the website by showing links to the Home section, the History section, the Specs section, the Powertrain section, the Gallery section, the Videos section and the About section. It's a sticky navigation/link bar, so it follows the user's viewport as he/she scrolls down the long single-page, allowing the user to easily navigate through the content across all devices without having to go back to the top of the page to access other sections. It obeys the combination of colors described on the Color Scheme section of this document.
 
-      (Screenshot here)
+  [Screenshot of the navbar here](assets/docs/screenshot-navbar.PNG)
 
-    • The Home section
+  • The Home section
 
-      o The Home section works as the landing page, which includes a beautiful photo of an R34 in South Africa, at the top of a hill, with an entire city in the background and with some text stating the car model and a catching phrase to allow the user to see what the website is about.
+  o The Home section works as the landing page, which includes a beautiful photo of an R34 in South Africa, at the top of a hill, with an entire city in the background and with some text stating the car model and a catching phrase to allow the user to see what the website is about.
 
-      (Screenshot here)
+  [Screenshot of the landing page here](assets/docs/screenshot-landing-page.PNG)
 
-    • The History section
+  • The History section
 
-      o A brief history of the Nissan Skyline GT-R throughout the years. Any external links will open in a new tab to allow easy navigation for the user and avoiding the user to leave the website.
+  o A brief history of the Nissan Skyline GT-R throughout the years. Any external links will open in a new tab to allow easy navigation for the user and avoiding the user to leave the website.
 
-      (Screenshot here)
+  [Screenshot of the History section here](assets/docs/screenshot-history.PNG)
 
-    • The Specs section
+  • The Specs section
 
-      o The car’s detailed technical specifications – the language spoken by every car fan in the world. Any external links will open in a new tab to allow easy navigation for the user and avoiding the user to leave the website.
+  o The car’s detailed technical specifications – the language spoken by every car fan in the world. Any external links will open in a new tab to allow easy navigation for the user and avoiding the user to leave the website.
 
-      (Screenshot here)
+  [Screenshot of the Specs section here](assets/docs/screenshot-specs.PNG)
 
-    • The Powertrain section
+  • The Powertrain section
 
-      o The content of this page explains the assembly of every component that pushes the car forward, like the transmission, the driveshaft, the axles, the differential, etc., with a specific section just for the engine, the Nissan RB26DETT. Any external links will open in a new tab to allow easy navigation for the user and avoiding the user to leave the website.
+  o The content of this page explains the assembly of every component that pushes the car forward, like the transmission, the driveshaft, the axles, the differential, etc., with a specific section just for the engine, the legendary Nissan RB26DETT. Any external links will open in a new tab to allow easy navigation for the user and avoiding the user to leave the website.
 
-      (Screenshot here)
+  [Screenshot of the Powertrain section here](assets/docs/screenshot-powertrain.PNG)
 
-    • The Gallery section
+  • The Gallery section
 
-      o Quality photos of the R34 that I found online. A classic section – and a must in any car website.
+  o Quality photos of the R34 that I found online (including photos of the interior of the R34 featured on this website). A classic section – and a must in any car website. This gallery was created using a typical strict grid layout, with a couple of columns and no gaps for a more intense visual effect. In mobile devices, and because the layout has to be responsive and fit the images into a smaller space, the images are stacked on top of each other in one single column, still with no gaps to maintain the same visual effect.
 
-      (Screenshot here)
+  [Screenshot of the Gallery section here](assets/docs/screenshot-gallery.PNG)
 
-    • The Videos section
+  • The Videos section
 
-      o We’re in the video era and, when it comes to the automotive industry, this kind of visual content became specifically important. The videos on this page are four very good reviews of the R34 on YouTube by Throttle House, Top Gear, Donut Media and Speedhunters, all of them respected car channels with a great presence online – these videos are iFramed on this page.
+  o We’re in the video era and, when it comes to the automotive industry, this kind of visual content became specifically important. The videos on this page are four very good reviews of the R34 on YouTube by Throttle House, Top Gear, Donut Media and Speedhunters, all of them respected car channels with a great presence online – these videos are iFramed on this page. All four videos can be watched and fully controlled by the user (play/pause, go backwards, go forward, etc.), regardless of them being watched in full screen or not. There's also an option on the iFrames of watching them directly on YouTube (in this case, the YouTube page will open in a new tab so the user doesn't leave the website).
 
-      (Screenshot here)
+  [Screenshot of the Videos section here](assets/docs/screenshot-videos.PNG)
 
-    • The About section
+  • The About section
 
-      o On this page, I briefly introduce myself, explain what the website aims to accomplish and acknowledge the contribution of several sources to this website. Any external links will open in a new tab to allow easy navigation for the user and avoiding the user to leave the website.
+  o On this page, I briefly introduce myself, explain what the website aims to accomplish and acknowledge the contribution of several sources to this website. Any external links will open in a new tab to allow easy navigation for the user and avoiding the user to leave the website.
 
-    • Footer
+  [Screenshot of the About section here](assets/docs/screenshot-about.PNG)
 
-      o The footer section includes a “Copyright © 2022 Pedro Ferreira” notice – it’s shown on every page of the website. It's a sticky footer, so it follows the user's viewport as he/she scrolls down the long single-page.
+  • Footer
+
+  o The footer section includes a “Copyright © 2022 Pedro Ferreira” notice – it’s shown on every section of the website (it's a sticky footer, so it follows the user's viewport as he/she scrolls up and down the long single-page website). Just like the navbar, it obeys the combination of colors described on the Color Scheme section of this document. This sticky footer was created as small as possible (differently from the navbar in that sense) as the information on it is not as relevant to the user experience as the navbar, for example, so this keeps the footer from stealing valuable space from the rest of the content of the website (text, images, videos, etc.). The social media icons on it (for YouTube, Instagram, Twitter and Facebook) lead the user to the login pages of these social media platforms (not to any specific YouTube/Instagram/Twitter/Facebook page/account), they're there only to make the footer look better and the page more professional. No hover.css was used on the social media icons in the footer (to add the float transition while being hovered over) because the footer bar would grow in size momentaneously has the icons were being hovered over, lending a strange visual effect to the user's viewport and the general user experience.
+
+  [Screenshot of the footer here](assets/docs/screenshot-footer.PNG)
 
 ## Features Left to Implement
 
