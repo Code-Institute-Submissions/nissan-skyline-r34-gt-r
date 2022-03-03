@@ -148,9 +148,9 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 ## Features Left to Implement
 
-    • A “Comments” section (not added now because this website is to be created using HTML and CSS only, not JavaScript).
+  • A “Comments” section, even a blog section for R34 fans and car enthusiasts in general (not added now because this website is to be created using HTML and CSS only, not JavaScript).
 
-    • The reason why this website doesn't have seven different pages and the navigation bar links to specific sections of the scrolling single-page instead is because it follows the usual model for car websites (for desktop or mobile devices), and it works better in mobile devices. This is also the reason why background images were not used (as text, with an overlay effect for better reading, would look too small on mobile devices). This was the original idea (the links to the wireframes are on the "Wireframes" section of this README.md file), which also included an image background change effect on the every page (the background image changes every few seconds – it’s dynamic content), but it wasn’t added now because this website is to be created using HTML and CSS only, not JavaScript.
+  • The reason why this website doesn't have seven different pages and the navigation bar links to specific sections of a long, scrolling single-page instead is because it follows the usual model for car websites (for desktop or mobile devices), and it works better in mobile devices. This is also the reason why background images were not used (as all the text on this website, with an overlay effect for better reading, would look too small on mobile devices). This was the original idea (the links to the wireframes are on the "Wireframes" section of this README.md file), which also included an image background change effect on the every page (the background image changes every few seconds – it’s dynamic content), but it wasn’t added now because this website is to be created using HTML and CSS only, not JavaScript.
 
 ## Technologies Used
 
