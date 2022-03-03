@@ -94,7 +94,7 @@ This website is designed to be responsive and accessible on a range of devices, 
 
   • Navigation Bar
 
-  o Featured at the top of the scrolling single-page, the fully responsive navigation/link bar introduces the user to all the specific content on the website by showing links to the Home section, the History section, the Specs section, the Powertrain section, the Gallery section, the Videos section and the About section. It's a sticky navigation/link bar, so it follows the user's viewport as he/she scrolls down the long single-page, allowing the user to easily navigate through the content across all devices without having to go back to the top of the page to access other sections. It obeys the combination of colors described on the Color Scheme section of this document.
+  o Featured at the top of the scrolling single-page, the fully responsive navigation/link bar introduces the user to all the specific content on the website by showing links (hover.css was used to add an underline effect to each link while being hovered over) to the Home section, the History section, the Specs section, the Powertrain section, the Gallery section, the Videos section and the About section. It's a sticky navigation/link bar, so it follows the user's viewport as he/she scrolls down the long single-page, allowing the user to easily navigate through the content across all devices without having to go back to the top of the page to access other sections. It obeys the combination of colors described on the Color Scheme section of this document.
 
   [Screenshot of the navbar here](assets/docs/screenshot-navbar.PNG)
 
@@ -156,47 +156,39 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 ### Languages Used
 
-    • HTML5
+  • HTML5
 
-    • CSS3
+  • CSS3
 
 ### Frameworks, Libraries & Programs Used
 
-    1. Bootstrap 4.4.1:
+  1. Hover.css:
 
-       o Bootstrap was used to assist with the responsiveness and styling of the website.
+  o Hover.css was used to add an underline effect to each link on the navbar and the website's text while being hovered over.
 
-    2. Hover.css:
+  2. Google Fonts:
 
-       o Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+  o Google fonts were used to import the 'Carme' font and 'Racing Sans One" fonts into the style.css file - Carme is used for text and the menus and Racing Sans One for the headings (this combination of styles was used throughout the project).
 
-    3. Google Fonts:
+  3. Font Awesome:
 
-       o Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+  o Font Awesome was used on the footer bar to add social media icons for aesthetic and UX purposes.
 
-    4. Font Awesome:
+  4. Git:
 
-       o Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+  o Git was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub.
 
-    5. jQuery:
+  5. GitHub:
 
-       o jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+  o GitHub is used to store the project's code after being pushed from Git.
 
-    6. Git:
+  6. Snipping tool:
 
-       o Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+  o A snipping tool was used to create the logo, resizing images and editing photos for the website.
 
-    7. GitHub:
+  7. Balsamiq:
 
-       o GitHub is used to store the project's code after being pushed from Git.
-
-    8. Photoshop:
-
-       o Photoshop was used to create the logo, resizing images and editing photos for the website.
-
-    9. Balsamiq:
-
-       o Balsamiq was used to create the wireframes during the design process.
+  o Balsamiq was used to create the wireframes during the design process.
 
 ## Testing
 
