@@ -201,75 +201,31 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 **• First-Time Visitor Goals**
 
-    i. As a first-time visitor, I want to easily understand what the website is about, navigate with ease throughout it all and find functional, yet interesting content.
+  i. As a first-time visitor, I want to easily understand what the website is about, navigate with ease throughout it all and find functional, yet interesting content.
 
-      a. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
+  a. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page section of their choice. The logo "Skyline" on the navbar, an obvious reference to the car model and also to the outline of land and buildings defined against the sky on the image of the R34 underneath, together with the wording of the links on the navbar (specs, powertrain, etc.), immediately make the user aware that it's a website about the Nissan Skyline and make the CTA (Call-to-Action) obvious. On mobile devices, the title and subtitle of the website ("Nissan Skyline R34 GT-R" / "The Fifth Generation of a JDM Legend") add to the user's (good) first impression of the website. And the About section clearly explains what the website is all about.
 
-      b. The main points are made immediately with the hero image
+  b. The user has two options: click the Call-to-Action buttons in the navbar or scroll down, both of which will lead to the same sections of the website, to learn more about the Skyline.
 
-      c. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
+  ii. As a first-time visitor, I want to find good, specific and relevant content about the R34: a mix of the car's technical details, good quality photos and informative videos about this specific model, all in one website.
 
-    ii. As a first-time visitor, I want to find good, specific and relevant content about the R34: a mix of the car's technical details, good quality photos and informative videos about this specific model, all in one website.
+  a. The site has been designed to be fluid and never to entrap the user. The sticky navigation bar follows the user's viewport as he/she scrolls up and down the page, and each link describes the section of the website they'll end up at clearly. This way, the user always has somewhere to go and doesn't feel trapped as they get to the end of a section or to the end of the page.
 
-      a. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+  b. The sticky footer, which also follows the user's viewport throughout any scrolling, allows the user to see who created the website and click on the social media icons to visit those pages at all times (a first-time visitor may want to see the website creator's following on social media to know more about him and look for more content like this, or to join and interact with other R34 aficionados in the community).
 
-      b. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-
-      c. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
-
-    iii. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
-
-      a. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-
-      b. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-
-      c. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+  c. All these goals have been achieved by every visitor to this website that I contacted (family, friends, car enthusiasts, etc.), with the exception of knowing more about the creator of the website (as previosuly mentioned, the social media icons lead to the login pages of the social media platforms, but not to the website creator's individual social media pages as one would expect, as he prefers not to expose himself that way at the time of this project). Whichever social media link they click, it'll open in a new tab to ensure the user can easily get back to the website (the same applies to any other external links on the website).
 
 **• Returning Visitor Goals**
 
-    i. As a returning visitor, and because this is a website for car fans, who tend to visit the same car websites regularly for different purposes (because they're working on a preoject car and they need detailed information about a specific model or parts, or ideas based on the R34's style and features for their own car, which is information that needs to be constantly accessed depending on the project car they're working on, for example), I want to be able to easily access the same good information about the R34 that I accessed the first time I visited the website and that impressed me so much.
+  i. As a returning visitor, and because this is a website for car fans, who tend to visit the same car websites regularly for different purposes (because they're working on a project car and they need detailed information about a specific model or parts, or ideas based on the R34's style and features for their own car, which is information that needs to be constantly accessed depending on the project car they're working on, for example), I want to be able to easily access the same good information about the R34 that I accessed the first time I visited the website and that impressed me so much.
 
-      a. These are clearly shown in the banner message.
-
-      b. They will be directed to a page with another hero image and call to action.
-
-    ii. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-
-      a. The navigation bar clearly highlights the "Contact Us" Page.
-
-      b. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-
-      c. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-
-      d. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-
-      e. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
-
-    iii. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-
-      a. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-
-      b. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-
-      c. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
+  a. The (good) first impression made on most first-time users has paid back, as more family members, friends and car enthusiasts that I contacted visited the website again to look at the content - this goal has been achieved.
 
 **• Frequent User Goals**
 
-    i. As a frequent user, I want this information to be available at all times so I can access it whenever I need it and show it to other R34 aficionados in my local car community and car fans in general - spreading good car information is what car people do when they meet other gearheads, and websites like this are a good source of car knowledge.
+  i. As a frequent user, I want this information to be available at all times so I can access it whenever I need it and show it to other R34 aficionados in my local car community and car fans in general - spreading good car information is what car people do when they meet other gearheads, and websites like this are a good source of car knowledge at all times.
 
-      a. The user would already be comfortable with the website layout and can easily click the banner message.
-
-    ii. As a Frequent User, I want to check to see if there are any new blog posts.
-
-      a. The user would already be comfortable with the website layout and can easily click the blog link
-
-    iii. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-
-      a. At the bottom of every page their is a footer which content is consistent throughout all pages.
-
-      b. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-
-      c. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+  a. At this stage, the user is already comfortable with the website layout and can easily navigate his/her way around the site's content. This is the feedback I got from most visitors.
 
 ### Further Testing
 
