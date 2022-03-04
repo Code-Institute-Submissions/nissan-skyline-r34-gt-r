@@ -192,10 +192,18 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of this project to ensure there were no syntax errors in the project.
 
   • W3C Markup Validator - [Results](assets/docs/Screenshot-html-validator.PNG)
   • W3C CSS Validator - [Results](assets/docs/Screenshot-css-validator.PNG)
+
+The [Am I Responsive?](http://ami.responsivedesign.is) website design tester was used to test the responsiveness of this website. [Screenshot here](assets/docs/screenshot-am-i-responsive.PNG)
+
+Google Chrome's DevTools were used to thoroughly test this website, including the Lighthouse tool - please see below screenshots of both Lighthouse reports (one for desktop and one for mobile):
+
+[Desktop](assets/docs/screenshot-lighthouse-desktop.PNG)
+
+[Mobile](assets/docs/screenshot-lighthouse-mobile.PNG)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -229,13 +237,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Further Testing
 
-    • The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+• The website was tested on the Google Chrome, Mozilla Firefox, Microsoft Edge and Safari browsers. Itv was not tested on Internet Explorer as it's no longer supported.
 
-    • The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+• The website was viewed on a variety of devices such as desktops, laptops, tablets, phablets, larger mobile phones and medium/smaller mobile phones.
 
-    • A large amount of testing was done to ensure that all pages were linking correctly.
+• A large amount of testing was done to ensure that all section links on the navbar were linking correctly. The same was done for all the external links on the website, including the social media icons.
 
-    • Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+• Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
 
