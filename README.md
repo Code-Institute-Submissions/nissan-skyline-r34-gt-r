@@ -186,7 +186,9 @@ This website is designed to be responsive and accessible on a range of devices, 
 
   o A snipping tool was used to create the logo, resizing images and editing photos for the website.
 
-  7. Balsamiq:
+  7. TinyPNG was used to compress all images on the website.
+
+  8. Balsamiq:
 
   o Balsamiq was used to create the wireframes during the design process.
 
@@ -199,7 +201,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 The [Am I Responsive?](http://ami.responsivedesign.is) website design tester was used to test the responsiveness of this website. [Screenshot here](assets/docs/screenshot-am-i-responsive.PNG)
 
-Google Chrome's DevTools were used to thoroughly test this website, including the Lighthouse tool - please see below screenshots of both Lighthouse reports (one for desktop and one for mobile):
+Google Chrome's DevTools were used to thoroughly test this website, including the Lighthouse tool - please see below screenshots of both Lighthouse reports (one for desktop and one for mobile - the 78 in Performance for mobile is due to the high number of images on the website's Gallery section, which impacts the page load time, though all images on the site were compressed):
 
 [Desktop](assets/docs/screenshot-lighthouse-desktop.PNG)
 
