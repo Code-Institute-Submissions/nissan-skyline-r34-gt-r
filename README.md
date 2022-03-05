@@ -251,11 +251,15 @@ Google Chrome's DevTools were used to thoroughly test this website, including th
 
 **• Fixed Bugs**
 
-    • On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
+• The text was smaller than expected at more than 1400px on the media query for extra large screens and TVs (1201px-1400px), so the maximum width for this media query was increased to 1600px, which solved the issue.
 
-      o A white gap can be seen to the right of the footer and navigation bar as a result.
+• On most advices, the content of the website (images, videos, text, headings, etc.) was placed too much to the right and was being pushed out of the screen/viewport, so a too wide white margin could be seen on the left, which created a very unaesthetic horizontal scrollable bar - this was due to the use of too much padding and margin space (the reason for this exaggerated use of padding and margins was the incorrect use of DevTools to check the responsiveness of the website on several screen sizes, which was showing the website content as perfectly centered/aligned; after manually testing the whole website on several screen sizes, the creator of this website figured it out and the unnecessary padding and margin space were removed from the CSS code and, along with a few other minor tweaks, the issue was solved).
 
-    • On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+• The navbar was "eating" the image underneath, as well as the headings of the several website sections every time the user clicked on a navbar link that would take him/her to the those specific sections (it would land a few centimeters below the section heading, instead of right above it). This is particularly problematic when we have a sticky navbar, as it's the case. This was fixed by increasing the height of the image underneath the navbar and by adding enough negative margin-top and the same positive value of padding-top to all section headings, which "tricked" the navbar and solved the problem.
+
+• The footer bar was also "eating" the text at the very bottom of the website page (at the end of the About section, which is the last section of the site). This was fixed by changing the margin bottom space.
+
+• After a lot of trial-and-error, and as mentioned above, the problem with the content aligning right and being pushed out of the screen/viewport (which created a horizontal scrollable bar) was fixed for all screen sizes, but there was still a very, very small piece of horizontal scrollable bar on the smallest screen size targeted by the media queries (between 320px and 480px) that the creator of this website couldn't figure out where it was coming from, so an 'overflow-x: hidden' property value was used, which effectively made the horizontal scrollable bar disappear and solved the issue. 
 
 **• Unfixed Bugs**
 
