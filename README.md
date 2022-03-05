@@ -66,7 +66,7 @@ This website is designed to be responsive and accessible on a range of devices, 
 
   o Mobile wireframe (Powertrain page) - [View](assets/wireframes/wireframe-r34-mobile-4.png)
 
-  o Mobile wireframe (Gallery page) - [View](assets/wireframes/wireframe-r34-mobile-5.png)
+  o Mobile wireframe (Gallery page) - [View](assets/wireframes/wireframe-r34-mobile-5.jpg)
 
   o Mobile wireframe (Videos page) - [View](assets/wireframes/wireframe-r34-mobile-6.png)
 
