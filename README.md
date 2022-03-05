@@ -229,31 +229,37 @@ Google Chrome's DevTools were used to thoroughly test this website, including th
 
   i. As a returning visitor, and because this is a website for car fans, who tend to visit the same car websites regularly for different purposes (because they're working on a project car and they need detailed information about a specific model or parts, or ideas based on the R34's style and features for their own car, which is information that needs to be constantly accessed depending on the project car they're working on, for example), I want to be able to easily access the same good information about the R34 that I accessed the first time I visited the website and that impressed me so much.
 
-  a. The (good) first impression made on most first-time users has paid back, as more family members, friends and car enthusiasts that I contacted visited the website again to look at the content - this goal has been achieved.
+  a. I believe the (good) first impression made on most first-time users has paid back, as more family members, friends and car enthusiasts that I contacted visited the website again to look at the content - this goal has been achieved.
 
 **• Frequent User Goals**
 
   i. As a frequent user, I want this information to be available at all times so I can access it whenever I need it and show it to other R34 aficionados in my local car community and car fans in general - spreading good car information is what car people do when they meet other gearheads, and websites like this are a good source of car knowledge at all times.
 
-  a. At this stage, the user is already comfortable with the website layout and can easily navigate his/her way around the site's content. This is the feedback I got from most visitors.
+  a. At this stage, the user is already comfortable with the website layout and can easily navigate his/her way around the site's content. This is the feedback I got from most visitors, so I believe this goal has also been achieved.
 
 ### Further Testing
 
-• The website was tested on the Google Chrome, Mozilla Firefox, Microsoft Edge and Safari browsers. Itv was not tested on Internet Explorer as it's no longer supported.
+• The website was tested on the Google Chrome, Mozilla Firefox, Microsoft Edge and Safari browsers (on Safari only by my mentor - he confirmed it was fully responsive and functional). It was not tested on Internet Explorer as it's no longer supported.
 
-• The website was viewed on a variety of devices such as desktops, laptops, tablets, phablets, larger mobile phones and medium/smaller mobile phones.
+• The website was viewed on a variety of devices such as desktops, larger laptops, medium/smaller laptops, tablets, phablets, larger mobile phones and medium/smaller mobile phones.
 
-• A large amount of testing was done to ensure that all section links on the navbar were linking correctly. The same was done for all the external links on the website, including the social media icons.
+• A large amount of testing was done to ensure that all section links on the navbar were linking correctly. The same was done for all the external links on the website, including the social media icons on the footer bar, and for all the iFramed YouTube videos on the Videos section.
 
 • Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
+
+**• Fixed Bugs**
 
     • On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
 
       o A white gap can be seen to the right of the footer and navigation bar as a result.
 
     • On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+
+**• Unfixed Bugs**
+
+
 
 ## Deployment
 
