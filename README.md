@@ -100,7 +100,7 @@ This website is designed to be responsive and accessible on a range of devices, 
 
   • The Home section
 
-  o The Home section works as the landing page, which includes a beautiful photo of an R34 in South Africa, at the top of a hill, with an entire city in the background and with some text stating the car model and a catching phrase to allow the user to see what the website is about.
+  o The Home section works as the landing page, which includes a beautiful photo of an R34 in South Africa, at the top of a hill, with an entire city in the background and, when the user scrolls down, with some text stating the car model and a catching phrase to allow the user to see what the website is about (on mobile devices, there's no need for the user to scroll down to see the text on Home section).
 
   [Screenshot of the landing page here](assets/docs/screenshot-landing-page.PNG)
 
@@ -130,7 +130,7 @@ This website is designed to be responsive and accessible on a range of devices, 
 
   • The Videos section
 
-  o We’re in the video era and, when it comes to the automotive industry, this kind of visual content became specifically important. The videos on this page are four very good reviews of the R34 on YouTube by Throttle House, Top Gear, Donut Media and Speedhunters, all of them respected car channels with a great presence online – these videos are iFramed on this page. All four videos can be watched and fully controlled by the user (play/pause, go backwards, go forward, etc.), regardless of them being watched in full screen or not. There's also an option on the iFrames of watching them directly on YouTube (in this case, the YouTube page will open in a new tab so the user doesn't leave the website).
+  o We’re in the video era and, when it comes to the automotive industry, this kind of visual content became specifically important. The videos on this page are four very good reviews of the R34 on YouTube by Throttle House, Top Gear, Donut Media and Speedhunters, all of them respected car channels with a great presence online – these videos are iFramed on this section of the website. All four videos can be watched and fully controlled by the user (play/pause, go backwards, go forward, etc.), regardless of them being watched in full screen or not. There's also an option on the iFrames of watching them directly on YouTube (in this case, the YouTube page will open in a new tab so the user doesn't leave the website).
 
   [Screenshot of the Videos section here](assets/docs/screenshot-videos.PNG)
 
