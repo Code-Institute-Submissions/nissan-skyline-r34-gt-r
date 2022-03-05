@@ -245,7 +245,7 @@ Google Chrome's DevTools were used to thoroughly test this website, including th
 
 • A large amount of testing was done to ensure that all section links on the navbar were linking correctly. The same was done for all the external links on the website, including the social media icons on the footer bar, and for all the iFramed YouTube videos on the Videos section.
 
-• Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+• Friends, family members and car enthusiasts were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
 
@@ -255,7 +255,7 @@ Google Chrome's DevTools were used to thoroughly test this website, including th
 
 • On most advices, the content of the website (images, videos, text, headings, etc.) was placed too much to the right and was being pushed out of the screen/viewport, so a too wide white margin could be seen on the left, which created a very unaesthetic horizontal scrollable bar - this was due to the use of too much padding and margin space (the reason for this exaggerated use of padding and margins was the incorrect use of DevTools to check the responsiveness of the website on several screen sizes, which was showing the website content as perfectly centered/aligned; after manually testing the whole website on several screen sizes, the creator of this website figured it out and the unnecessary padding and margin space were removed from the CSS code and, along with a few other minor tweaks, the issue was solved).
 
-• The navbar was "eating" the image underneath, as well as the headings of the several website sections every time the user clicked on a navbar link that would take him/her to the those specific sections (it would land a few centimeters below the section heading, instead of right above it). This is particularly problematic when we have a sticky navbar, as it's the case. This was fixed by increasing the height of the image underneath the navbar and by adding enough negative margin-top and the same positive value of padding-top to all section headings, which "tricked" the navbar and solved the problem.
+• The navbar was "eating" the main image underneath, as well as the headings of the several website sections every time the user clicked on a navbar link that would take him/her to the those specific sections (it would land a few centimeters below the section heading, instead of right above it). This is particularly problematic when we have a sticky navbar, as it's the case. This was fixed by increasing the height of the image underneath the navbar and by adding enough negative margin-top and the same positive value of padding-top to all section headings, which "tricked" the navbar and solved the problem.
 
 • The footer bar was also "eating" the text at the very bottom of the website page (at the end of the About section, which is the last section of the site). This was fixed by changing the margin bottom space.
 
@@ -327,33 +327,39 @@ $ git clone https://github.com/PedroMiguelFerreira/nissan-skyline-r34-gt-r
 
 ### Code
 
-    • The full-screen hero image code came from this StackOverflow post
+• The [W3Schools Online Web Tutorials](https://www.w3schools.com/) have been a huge help throughout the creation of this website. Nothing was ever copied from it, but it was extensively used as a source of code knowledge/confirmation. A good example of this was the use of the [CSS overflow-x property value](https://www.w3schools.com/cssref/css3_pr_overflow-x.asp) on the 320px-480px media query.
 
-    •   Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+• [Mike Dane's Giraffe Academy CSS tutorial about flexbox](https://www.youtube.com/watch?v=6FedyF0F2i8&list=PLLAZ4kZ9dFpNO7ScZFr-WTmtcBY3AN1M7&index=14) on [Mike's YouTube channel](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw) was crucial for me to understand the CSS flexbox layout and be able to use it on several code blocks of this website.
 
-    • MDN Web Docs : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found Here
+• As previously mentioned, the navbar was "eating" the main image underneath, as well as the headings of the several website sections every time the user clicked on a navbar link that would take him/her to the those specific sections. This was fixed by increasing the height of the image underneath the navbar and by adding enough negative margin-top and the same positive value of padding-top to all section headings, which "tricked" the navbar and solved the problem. I found this clever trick on [this article](https://css-tricks.com/hash-tag-links-padding/#aa-fancier-clean-html-method) by Chris Coyier published on the [CSS Tricks website](https://css-tricks.com/).
 
 ### Content
 
-    • All text on this website, except for the content text on the Home and About pages, was taken from two Wikipedia articles: one about the [Nissan Skyline GT-R](https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R) and another one about the [RB26DETT engine](https://en.wikipedia.org/wiki/Nissan_RB_engine#RB26DETT).
+• All text on this website, except for the content text on the Home and About pages, was taken from two Wikipedia articles: one about the [Nissan Skyline GT-R](https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R) and another one about the [RB26DETT engine](https://en.wikipedia.org/wiki/Nissan_RB_engine#RB26DETT).
 
 ### Media
 
-    • The photos used as the background images of every page on this website were taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/) with the permission of the rightful owner of those photos, Mr Stefan Kotze, a famous South African automotive photographer and regular contributor to Speedhunters (this permission was given by email, which is available on request).
+• The photos used as main and section images on this website were taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/) with the permission of the rightful owner of these photos, Mr Stefan Kotze, a famous South African automotive photographer and regular contributor to Speedhunters (this permission was given by email, which is available on request).
 
-    • The images used for the gallery page were also taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/), also with the permission of the rightful owner of those photos, Mr Stefan Kotze.
+• The [second main image](assets/images/home-image-2.jpg) on this website was purchased by the creator of this site on the [iStock website](https://www.istockphoto.com/photo/nissan-gt-r-r35-gm458657877-17392687) (proof of payment is available on request).
 
-    • All four videos are iFramed from YouTube, which offers this option – they’re videos by [Throttle House](https://www.youtube.com/watch?v=9mhOJggoa_Q), [Top Gear](https://www.youtube.com/watch?v=N5Uk5uzyNZo), [Donut Media](https://www.youtube.com/watch?v=AZce2B8DMDQ) and [Speedhunters](https://www.youtube.com/watch?v=o4wXfgfGVNM&t=67s), famous YouTube car channels (the Top Gear video is iFramed from the YouTube page of user “Insomnia K”, while all others are iFramed from the car channels' own YouTube channels).
+• The images used for the Gallery section were also taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/), also with the permission of the rightful owner of those photos, Mr Stefan Kotze.
+
+• The Skyline logo image was downloaded for free from [this page](https://logodix.com/logos/451089) on the [Logodix website](https://logodix.com/).
+
+• All four videos are iFramed from YouTube, which offers this option – they’re videos by [Throttle House](https://www.youtube.com/watch?v=9mhOJggoa_Q), [Top Gear](https://www.youtube.com/watch?v=N5Uk5uzyNZo), [Donut Media](https://www.youtube.com/watch?v=AZce2B8DMDQ) and [Speedhunters](https://www.youtube.com/watch?v=o4wXfgfGVNM&t=67s), famous YouTube car channels (the Top Gear video is iFramed from the YouTube page of user “Insomnia K”, while all others are iFramed from the car channels' own YouTube channels).
 
 ### Acknowledgements
 
-    • Stefan Kotze, the best automotive photographer in the world and whose work I greatly admire, for all the beautiful photos of a Nissan Skyline R34 GT-R that were published on Speedhunters’ website and that were extensively used on this website. Without them, this website might not exist.
+• Stefan Kotze, the best automotive photographer in the world and whose work I greatly admire, for all the beautiful photos of a Nissan Skyline R34 GT-R that were published on Speedhunters’ website and that were extensively used on this website. Without them, this website might not exist.
 
-    • My Mentor for continuous helpful feedback.
+• My Mentor for continuous helpful feedback.
 
-    • Tutor support at Code Institute for their support.
+• Tutor support at Code Institute for their support.
 
-    • Code Institute's Slack community for their support.
+• Code Institute's Slack community for their support.
+
+• All family members, friends and car enthusiasts who helped testing this website.
 
 
 
