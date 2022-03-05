@@ -168,7 +168,7 @@ This website is designed to be responsive and accessible on a range of devices, 
 
   2. Google Fonts:
 
-  o Google fonts were used to import the 'Carme' font and 'Racing Sans One" fonts into the style.css file - Carme is used for text and the menus and Racing Sans One for the headings (this combination of styles was used throughout the project).
+  o Google fonts were used to import the "Carme" and "Racing Sans One" fonts into the style.css file - Carme is used for text and the menus and Racing Sans One for the headings (this combination of styles was used throughout the project).
 
   3. Font Awesome:
 
@@ -191,6 +191,10 @@ This website is designed to be responsive and accessible on a range of devices, 
   8. Balsamiq:
 
   o Balsamiq was used to create the wireframes during the design process.
+
+  9. PDF To Image converter:
+
+  o A PDF To Image converter was used to convert the PDFs of the wireframes to image format so they could be uploaded to and accessible on GitPod and GitHub.
 
 ## Testing
 
