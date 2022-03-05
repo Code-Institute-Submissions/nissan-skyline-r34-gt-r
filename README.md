@@ -279,9 +279,9 @@ The project was deployed to GitHub Pages using the following steps...
 
 1. Log in to GitHub and locate the GitHub Repository.
 
-2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+2. At the top of the Repository (not top of the page), locate the "Settings" Button on the menu.
 
-3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+3. Scroll down the Settings page until you locate the "GitHub Pages" section.
 
 4. Under "Source", click the dropdown called "None", select "Master Branch" and click on "Save".
 
@@ -291,11 +291,11 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Forking the GitHub Repository
 
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-1. Log in to GitHub and locate the GitHub Repository
+1. Log in to GitHub and locate the GitHub Repository.
 
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+2. At the top of the Repository (not top of the page), just above the "Settings" button on the menu, locate the "Fork" button.
 
 3. You should now have a copy of the original repository in your GitHub account.
 
@@ -307,7 +307,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 
-4. Open Git Bash
+4. Open Git Bash.
 
 5. Change the current working directory to the location where you want the cloned directory to be made.
 
@@ -333,7 +333,7 @@ $ git clone https://github.com/PedroMiguelFerreira/nissan-skyline-r34-gt-r
 
 ### Code
 
-• The [W3Schools Online Web Tutorials](https://www.w3schools.com/) have been a huge help throughout the creation of this website. Nothing was ever copied from it, but it was extensively used as a source of code knowledge/confirmation. A good example of this was the use of the [CSS overflow-x property value](https://www.w3schools.com/cssref/css3_pr_overflow-x.asp) on the 320px-480px media query.
+• The [W3Schools Online Web Tutorials](https://www.w3schools.com/) were a huge help throughout the creation of this website. Nothing was ever copied from it, but it was extensively used as a source of code knowledge/confirmation. A good example of this was the use of the [CSS "overflow-x: hidden" property value](https://www.w3schools.com/cssref/css3_pr_overflow-x.asp) on the 320px-480px media query.
 
 • [Mike Dane's Giraffe Academy CSS tutorial about flexbox](https://www.youtube.com/watch?v=6FedyF0F2i8&list=PLLAZ4kZ9dFpNO7ScZFr-WTmtcBY3AN1M7&index=14) on [Mike's YouTube channel](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw) was crucial for me to understand the CSS flexbox layout and be able to use it on several code blocks of this website.
 
@@ -349,7 +349,7 @@ $ git clone https://github.com/PedroMiguelFerreira/nissan-skyline-r34-gt-r
 
 • The [second main image](assets/images/home-image-2.jpg) on this website was purchased by the creator of this site on the [iStock website](https://www.istockphoto.com/photo/nissan-gt-r-r35-gm458657877-17392687) (proof of payment is available on request).
 
-• The images used for the Gallery section were also taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/), also with the permission of the rightful owner of those photos, Mr Stefan Kotze.
+• The images used for the Gallery section were also taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/), also with the permission of the rightful owner of these photos, Mr Stefan Kotze.
 
 • The Skyline logo image was downloaded for free from [this page](https://logodix.com/logos/451089) on the [Logodix website](https://logodix.com/).
 
@@ -359,24 +359,12 @@ $ git clone https://github.com/PedroMiguelFerreira/nissan-skyline-r34-gt-r
 
 • Stefan Kotze, the best automotive photographer in the world and whose work I greatly admire, for all the beautiful photos of a Nissan Skyline R34 GT-R that were published on Speedhunters’ website and that were extensively used on this website. Without them, this website might not exist.
 
+• Wikipedia for all the technical content on this website.
+
 • My Mentor for continuous helpful feedback.
 
-• Tutor support at Code Institute for their support.
+• Tutor Support at Code Institute for their support.
 
 • Code Institute's Slack community for their support.
 
 • All family members, friends and car enthusiasts who helped testing this website.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
