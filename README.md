@@ -156,29 +156,29 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 ### Languages Used
 
-  • HTML5
+  • [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
-  • CSS3
+  • [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries & Programs Used
 
-  1. Hover.css:
+  1. [Hover.css](https://ianlunn.github.io/Hover/):
 
   o Hover.css was used to add an underline effect to each link on the navbar and the website's text while being hovered over.
 
-  2. Google Fonts:
+  2. [Google Fonts](https://fonts.google.com/):
 
   o Google fonts were used to import the "Carme" and "Racing Sans One" fonts into the style.css file - Carme is used for text and the menus and Racing Sans One for the headings (this combination of styles was used throughout the project).
 
-  3. Font Awesome:
+  3. [Font Awesome](https://fontawesome.com/):
 
   o Font Awesome was used on the footer bar to add social media icons for aesthetic and UX purposes.
 
-  4. Git:
+  4. [Git](https://git-scm.com/):
 
   o Git was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub.
 
-  5. GitHub:
+  5. [GitHub](https://github.com/):
 
   o GitHub is used to store the project's code after being pushed from Git.
 
@@ -186,15 +186,17 @@ This website is designed to be responsive and accessible on a range of devices, 
 
   o A snipping tool was used to create the logo, resizing images and editing photos for the website.
 
-  7. TinyPNG was used to compress all images on the website.
+  7. [TinyPNG](https://tinypng.com/):
+  
+  o TinyPNG was used to compress all images on the website.
 
-  8. Balsamiq:
+  8. [Balsamiq](https://balsamiq.com/):
 
   o Balsamiq was used to create the wireframes during the design process.
 
-  9. PDF To Image converter:
+  9. [PDF To Image converter](https://pdftoimage.com/):
 
-  o A PDF To Image converter was used to convert the PDFs of the wireframes to image format so they could be uploaded to and accessible on GitPod and GitHub.
+  o PDF To Image converter was used to convert the PDFs of the wireframes to image format so they could be uploaded to and accessible on GitPod and GitHub.
 
 ## Testing
 
@@ -277,7 +279,7 @@ Google Chrome's DevTools were used to thoroughly test this website, including th
 
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the GitHub Repository.
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/PedroMiguelFerreira/nissan-skyline-r34-gt-r).
 
 2. At the top of the Repository (not top of the page), locate the "Settings" Button on the menu.
 
@@ -287,13 +289,13 @@ The project was deployed to GitHub Pages using the following steps...
 
 5. The page will automatically refresh.
 
-6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://github.com/PedroMiguelFerreira/nissan-skyline-r34-gt-r/settings/pages) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
 By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-1. Log in to GitHub and locate the GitHub Repository.
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/PedroMiguelFerreira/nissan-skyline-r34-gt-r).
 
 2. At the top of the Repository (not top of the page), just above the "Settings" button on the menu, locate the "Fork" button.
 
@@ -301,7 +303,7 @@ By forking the GitHub Repository, we make a copy of the original repository on o
 
 ### Making a Local Clone
 
-1. Log in to GitHub and locate the GitHub Repository.
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/PedroMiguelFerreira/nissan-skyline-r34-gt-r).
 
 2. Under the repository name, click "Clone or download".
 
@@ -328,6 +330,8 @@ $ git clone https://github.com/PedroMiguelFerreira/nissan-skyline-r34-gt-r
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 
 > Unpacking objects: 100% (10/10), done.
+
+Click [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credits
 
@@ -359,14 +363,14 @@ $ git clone https://github.com/PedroMiguelFerreira/nissan-skyline-r34-gt-r
 
 ### Acknowledgements
 
-• Stefan Kotze, the best automotive photographer in the world and whose work I greatly admire, for all the beautiful photos of a Nissan Skyline R34 GT-R that were published on Speedhunters’ website and that were extensively used on this website. Without them, this website might not exist.
+• Stefan Kotze, the best automotive photographer in the world and whose work I greatly admire, for all the beautiful photos of a Nissan Skyline R34 GT-R that were published on [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/) and that were extensively used on this website. Without them, this website might not exist.
 
-• Wikipedia for all the technical content on this website.
+• [Wikipedia](https://www.wikipedia.org/) for all the technical content on this website.
 
 • My Mentor for continuous helpful feedback.
 
 • Tutor Support at Code Institute for their support.
 
-• Code Institute's Slack community for their support.
+• [Code Institute](https://codeinstitute.net/ie/)'s Slack community for their support.
 
 • All family members, friends and car enthusiasts who helped testing this website.
