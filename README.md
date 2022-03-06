@@ -343,6 +343,8 @@ $ git clone https://github.com/PedroMiguelFerreira/nissan-skyline-r34-gt-r
 
 • All text on this website, except for the content text on the Home and About pages, was taken from two Wikipedia articles: one about the [Nissan Skyline GT-R](https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R) and another one about the [RB26DETT engine](https://en.wikipedia.org/wiki/Nissan_RB_engine#RB26DETT).
 
+•	The social media icons in the footer were taken from [Font Awesome](https://fontawesome.com/search?m=free&s=solid%2Cbrands).
+
 ### Media
 
 • The photos used as main and section images on this website were taken from [Speedhunters’ website](http://www.speedhunters.com/2020/02/wide-wicked-800hp-r34-skyline-gt-r/) with the permission of the rightful owner of these photos, Mr Stefan Kotze, a famous South African automotive photographer and regular contributor to Speedhunters (this permission was given by email, which is available on request).
